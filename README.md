@@ -32,6 +32,7 @@ This web app allows users to enter customer details through a form and receive a
 ## 🖼️ Screenshot
 
 > _Form preview and prediction display:_
+<img width="1920" height="922" alt="Image" src="https://github.com/user-attachments/assets/3115864e-bc24-4a3b-9d84-545f9fec93e0" />
 
 
 
